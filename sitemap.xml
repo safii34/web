@@ -1,44 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
     <loc>https://safii34.github.io/web/</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/about.html</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/services.html</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/contact.html</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/faq.html</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/blog/forex-account-management.html</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/blog/forex-risk-management.html</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/blog/pamm-vs-mam.html</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/blog/what-is-trading-account-management.html</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
   <url>
     <loc>https://safii34.github.io/web/de/</loc>
+    <lastmod>2026-06-26</lastmod>
   </url>
 
 </urlset>
