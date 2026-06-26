@@ -1,0 +1,45 @@
+.contact-hero{
+padding:80px 20px;
+text-align:center;
+background:#f5f7fa;
+}
+
+.contact-hero h1{
+font-size:42px;
+margin-bottom:15px;
+}
+
+.contact-section{
+padding:60px 20px;
+}
+
+.contact-card{
+background:#fff;
+padding:30px;
+margin:20px 0;
+border-radius:12px;
+box-shadow:0 5px 20px rgba(0,0,0,.08);
+text-align:center;
+}
+
+.contact-card h2{
+margin-bottom:15px;
+}
+
+.contact-card p{
+font-size:22px;
+margin-bottom:20px;
+}
+
+.btn{
+display:inline-block;
+padding:12px 25px;
+background:#4b1e83;
+color:#fff;
+text-decoration:none;
+border-radius:8px;
+}
+
+.btn:hover{
+opacity:.9;
+}
